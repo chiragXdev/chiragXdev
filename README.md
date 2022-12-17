@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @chiragXdev
-- 👀 I’m interested in JAVA,PHP,FLUTTER
-- 🌱 I’m currently learning JAVA,PHP(LARAVEL)
+- 👋 Hi, I’m Chirag
+- 👨🏻‍💻FULL STACK DEVELOPER
+- SKILLS : JAVA, PHP, MERN, SQL, FIGMA 
 - 📫 How to reach me dev.thechirag@gmail.com
 
 <!---
